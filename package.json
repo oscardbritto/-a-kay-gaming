@@ -1,0 +1,22 @@
+{
+	"username": "CWS",
+	"avatar_url": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fyt3.ggpht.com%2Fa-%2FACSszfGz4Y79_AC_Rm26Kq7C0Fj9knA4580YL4nuGQ%3Ds900-mo-c-c0xffffffff-rj-k-no&imgrefurl=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUC7S6euFZfew1VLnIuLRcnug&docid=zD6kS60BXgCadM&tbnid=zQBmE_4WcFEkVM%3A&vet=10ahUKEwit5aC1gu_bAhWLLY8KHRZtAmgQMwhCKAQwBA..i&w=900&h=900&bih=662&biw=1366&q=clash%20with%20sparsh&ved=0ahUKEwit5aC1gu_bAhWLLY8KHRZtAmgQMwhCKAQwBA&iact=mrc&uact=8",
+	"content": "@everyone {{AuthorName}} uploaded {{Title}} at {{CreatedAt}} {{Url}} go check him out also dont forget to like and subscribe to the channel ",
+	"embeds": [{
+		"author": {
+			"name": "{{AuthorName}}",
+			"url": "https://discordapp.com/channels/@me/452440667021639691/460813843912851457",
+			"icon_url": "http://i.imgur.com/leKCtxz.jpg"
+		},
+		"description": "[Click here to see this video]({{Url}})",
+		"color": 15258703,
+		"fields": [{
+			"name": "Description",
+			"value": "{{Description}}"
+		}],
+		"footer": {
+			"text": "Created by @WolfgGang1710",
+			"icon_url": "http://i.imgur.com/t2JQM4F.png"
+		}
+	}]
+}
